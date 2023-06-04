@@ -2,7 +2,7 @@
 Develop a program to accept personal information from the end user using Text View and Edit Text and display the information of the student.
 
 ## AIM:
-To develop a program to accept personal information from the end user using Text View and Edit Text and display the information of the student using Android Studio.
+To develop a program to accept personal information from the end user using Text View and Edit Text and display the information of the student using Android Studio
 
 ## EQUIPMENTS REQUIRED:
 
